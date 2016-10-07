@@ -14,8 +14,8 @@
 ASP.Net MVC
 
 1. Что такое фильтры?
+2. Для чего нужен AntiForgeryToken?
 
-W
 
 Razor
 
@@ -86,6 +86,5 @@ JavaScript
 1. Что такое замыкания?
 2. Что вернет такой код?
     (window.foo || (window.foo = "bar"));
-
 
 
