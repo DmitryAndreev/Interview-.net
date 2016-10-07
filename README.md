@@ -9,7 +9,7 @@
 
 .Net
 1. Как работает Thread.Abort()? ThreadAbortException, safe place. Thread.BegineCriticalRegion, Thread.EndCriticalRegion
-2. 
+2. Как работает IEnumerable
 
 ASP.Net MVC
 
